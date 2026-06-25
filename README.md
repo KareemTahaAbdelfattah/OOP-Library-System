@@ -1,6 +1,7 @@
 # Library Lending System
 
 A menu-driven Java console application for managing a library catalog, registering members, and handling borrowing and returning of items.
+![Library System Screenshot](image.png)
 
 ## Project Overview
 
