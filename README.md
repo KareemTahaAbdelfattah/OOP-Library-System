@@ -4,7 +4,7 @@ A menu-driven Java console application for managing a library catalog, registeri
 ![Library System Screenshot](image.png)
 
 ## Project Overview
-
+Java OOP Library System project featuring a menu-driven console application for managing library items, members, borrowing, and returning. Built using abstraction, inheritance, polymorphism, and exception handling with collections and input validation.
 This project was built as a Java OOP assignment to demonstrate key object-oriented programming concepts in a practical library management system.
 
 The library supports multiple item types:
